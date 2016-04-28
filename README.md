@@ -3,7 +3,7 @@
  
  Each  data structure File will list density and speed complexities
  
- File 1 will list a table of all data types and specs
+ Data Structure Specs == will list a table of all data types and specs
  
  File Schemas:
  
@@ -12,6 +12,7 @@
  H2 = Will list caveats of the  languages built-in structures.
  
  H3 = The actual code.
+ 
 /*
 
 Inline-style: 
