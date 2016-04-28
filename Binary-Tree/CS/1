@@ -1,1 +1,1 @@
-
+Tree structures, like linked lists, do not require contiguous memory, making them just as efficient to expand. In addition, when properly implemented, the speed of these structures greatly exceeds that of the array-based and linked structures and approaches the overall speed of the hashed structures. From a density viewpoint, they require higher node widths than the other structures to reach acceptable densities.
