@@ -1,1 +1,7 @@
+Implement the perfect hashed data structure discussed in this chapter and provide an application that
+demonstrates that its four basic operation methods function properly. Your application should store 
+nodes for a stadium ticket application where the ticket numbers range from 2000 to 100,000 for a 60,000 seat stadium. 
+The ticket number will be the key field and the nodes will also store the purchaser's name.
 
+Last update: Most ticket number work fine. But a ticket number of 100000 causes a problem. It allows it into the structure 
+but trying to fetch it resulst in a run-time error
