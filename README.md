@@ -1,7 +1,7 @@
 # Java-Data-Structures-Fully-Encapsulated
  Implenation of data structures in the Java language 
  
- Each File will list a density and speed
+ Each  data structure File will list density and speed complexities
  
  File 1 will list a table of all data types and specs
  
@@ -11,7 +11,7 @@
  
  H2 = Will list caveats of the  languages built-in structures.
  
- H3 = Will the actual code.
+ H3 = The actual code.
 /*
 
 Inline-style: 
