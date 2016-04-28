@@ -5,13 +5,13 @@
  
  3) Data Structure Specs == will list a table of all the data types and specs
  
- 4) File Schemas:
+ 4) Folder Schema:
  
-  H1 = Will state what the caveats of the stuctures.  
+  CS = Will state what the caveats of the stuctures.  
  
-  H2 = Will list caveats of the languages built-in structures.
+  BI = Will list caveats of the languages built-in structures.
  
-  H3 = The actual code.
+  AC = The actual code.
  
 /*
 
