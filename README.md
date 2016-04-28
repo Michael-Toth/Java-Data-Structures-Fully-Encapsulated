@@ -1,5 +1,5 @@
 # Java-Data-Structures-Fully-Encapsulated
- implementation of data structures in the Java language 
+ Implementation of data structures in the Java language 
  
  Each  data structure Folder will have a file that list density and speed complexities
  
