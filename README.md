@@ -1,11 +1,11 @@
 # Java-Data-Structures-Fully-Encapsulated
  1) Implementation of data structures in the Java language 
  
- 2)Each  data structure Folder will have a file that list density and speed complexities
+ 2) Each  data structure Folder will have a file that list density and speed complexities
  
- 3)Data Structure Specs == will list a table of all the data types and specs
+ 3) Data Structure Specs == will list a table of all the data types and specs
  
-$) File Schemas:
+ 4) File Schemas:
  
   H1 = Will state what the caveats of the stuctures.  
  
