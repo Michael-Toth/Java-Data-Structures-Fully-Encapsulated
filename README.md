@@ -3,7 +3,7 @@
  
  Each  data structure Folder will have a file that list density and speed complexities
  
- Data Structure Specs == will list a table of all data types and specs
+ Data Structure Specs == will list a table of all the data types and specs
  
  File Schemas:
  
