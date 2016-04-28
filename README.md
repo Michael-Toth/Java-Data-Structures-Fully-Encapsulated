@@ -1,5 +1,5 @@
 # Java-Data-Structures-Fully-Encapsulated
- Implenation of data structures in the Java language 
+ implementation of data structures in the Java language 
  
  Each  data structure File will list density and speed complexities
  
@@ -9,7 +9,7 @@
  
  H1 = Will state what the caveats of the stuctures.  
  
- H2 = Will list caveats of the  languages built-in structures.
+ H2 = Will list caveats of the languages built-in structures.
  
  H3 = The actual code.
  
