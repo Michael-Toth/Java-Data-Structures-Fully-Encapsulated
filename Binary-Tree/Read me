@@ -2,7 +2,9 @@ The exercise asked that we write a program too:
 
 -----------------------------------------
 
-31.  Code an application program that keeps track of student information at your college. Include their names, identification numbers, and grade point averages in a fully encapsulated, homogeneous, linked-based binary search tree. When launched, the user will be presented with the following menu:
+31.  Code an application program that keeps track of student information at your college. 
+Include their names, identification numbers, and grade point averages in a fully encapsulated,
+homogeneous, linked-based binary search tree. When launched, the user will be presented with the following menu:
 
 Enter:
 
