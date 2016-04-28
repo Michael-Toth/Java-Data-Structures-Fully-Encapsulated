@@ -1,3 +1,7 @@
+The exercise asked that we write a program too:
+
+-----------------------------------------
+
 Implement the perfect hashed data structure discussed in this chapter and provide an application that
 demonstrates that its four basic operation methods function properly. Your application should store 
 nodes for a stadium ticket application where the ticket numbers range from 2000 to 100,000 for a 60,000 seat stadium. 
